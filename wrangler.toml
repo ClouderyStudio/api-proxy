@@ -1,4 +1,4 @@
-name = "apiproxy"
+name = "api-proxy"
 account_id = "f311d9f5723b811e4d86e1d395701cbf"
 workers_dev = true
 compatibility_date = "2025-03-15"
